@@ -1,0 +1,26 @@
+total 300
+drwxrwx---  3 ayman ayman   4096 Oct 24 02:29 .
+drwxr-x--- 18 ayman ayman   4096 Oct 22 21:42 ..
+drwxrwxr-x  7 ayman ayman   4096 Oct 24 02:27 .git
+-rw-rw-r--  1 ayman ayman     66 Oct 22 21:44 .gitignore
+-rwxrwx---  1 ayman ayman    536 Oct 22 22:35 Makefile
+-rwxrwx---  1 ayman ayman  13705 Oct 24 02:25 command.cc
+-rwxrwx---  1 ayman ayman    649 Oct 24  2025 command.h
+-rwxrwxr-x  1 ayman ayman 252304 Oct 24 02:28 myshell
+-rw-r--r--  1 ayman ayman    607 Oct 24 02:29 out.tx
+-rw-r--r--  1 ayman ayman      0 Oct 24 02:29 out.txt
+-rwxrwx---  1 ayman ayman   1954 Oct 24  2025 tokenizer.cc
+-rwxrwx---  1 ayman ayman    456 Oct 24  2025 tokenizer.h
+total 304
+drwxrwx---  3 ayman ayman   4096 Oct 24 02:29 .
+drwxr-x--- 18 ayman ayman   4096 Oct 22 21:42 ..
+drwxrwxr-x  7 ayman ayman   4096 Oct 24 02:27 .git
+-rw-rw-r--  1 ayman ayman     66 Oct 22 21:44 .gitignore
+-rwxrwx---  1 ayman ayman    536 Oct 22 22:35 Makefile
+-rwxrwx---  1 ayman ayman  13705 Oct 24 02:25 command.cc
+-rwxrwx---  1 ayman ayman    649 Oct 24  2025 command.h
+-rwxrwxr-x  1 ayman ayman 252304 Oct 24 02:28 myshell
+-rw-r--r--  1 ayman ayman    607 Oct 24 02:29 out.tx
+-rw-r--r--  1 ayman ayman    661 Oct 24 02:29 out.txt
+-rwxrwx---  1 ayman ayman   1954 Oct 24  2025 tokenizer.cc
+-rwxrwx---  1 ayman ayman    456 Oct 24  2025 tokenizer.h
